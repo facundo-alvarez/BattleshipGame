@@ -5,12 +5,12 @@ The machine will add ships in a random order, and the player have to discover wh
 After all ships has been discovered, the game ends.
 
 Built With:
--C#
--WPF
+- C#
+- WPF
 
 Using:
--MVVM
--TDD
+- MVVM
+- TDD
 
 Installation:
 
