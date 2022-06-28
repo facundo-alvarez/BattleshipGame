@@ -14,7 +14,5 @@ Using:
 
 Installation:
 
-1. Clone the repository:
-gh repo clone facundo-alvarez/BattleshipGame
-
-2.Compile and run the program 
+1. Clone the repository
+2. Compile and run the program 
